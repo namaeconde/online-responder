@@ -1,0 +1,10 @@
+export { default as AppHospitalAdmissions } from './AppHospitalAdmissions';
+export { default as AppConversionRates } from './AppConversionRates';
+export { default as AppMedicalConsultations } from './AppMedicalConsultations';
+export { default as AppMedicalCheckups } from './AppMedicalCheckups';
+export { default as AppHealthTips } from './AppHealthTips';
+export { default as AppTotalReviews } from './AppTotalReviews';
+export { default as AppBookingTimeline } from './AppBookingTimeline';
+export { default as AppTasks } from './AppTasks';
+export { default as AppSMSInquiries } from './AppSMSInquiries';
+export { default as AppTotalRewards } from './AppTotalRewards';
